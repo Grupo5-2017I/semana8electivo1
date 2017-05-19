@@ -22,6 +22,8 @@ function SoloNumeros(evt){
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Obtener el mayor de 2 numeros naturales</title>
     </head>
+   
+  <center><h3>Obtener el mayor de 2 numeros naturales</h3></center>
     <body bgcolor="orange">
         <form method="post">
             <center>
